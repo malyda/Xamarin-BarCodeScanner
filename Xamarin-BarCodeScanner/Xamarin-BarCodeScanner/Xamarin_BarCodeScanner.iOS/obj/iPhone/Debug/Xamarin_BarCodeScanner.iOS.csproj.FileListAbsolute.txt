@@ -1,0 +1,5 @@
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.iOS\obj\iPhone\Debug\optimized\
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.iOS\obj\iPhone\Debug\Xamarin_BarCodeScanner.iOS.csprojResolveAssemblyReference.cache

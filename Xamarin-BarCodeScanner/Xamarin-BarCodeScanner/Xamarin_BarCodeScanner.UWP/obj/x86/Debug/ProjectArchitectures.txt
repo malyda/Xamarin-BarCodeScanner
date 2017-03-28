@@ -1,0 +1,2 @@
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner.UWP\Xamarin_BarCodeScanner.UWP.csproj;x86
+C:\Users\maly\Source\Repos\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin-BarCodeScanner\Xamarin_BarCodeScanner\Xamarin_BarCodeScanner.csproj;neutral
